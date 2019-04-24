@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+      <key>provisioningProfiles</key>
+      <dict>
+        <key>MY_APP_BUNDLE_ID</key>
+        <string>MY_PROFILE_NAME_AS_SHOWN_BY_XCODE or UUID_FOUND_IN_MOBILEPROVISION_FILE</string>
+      <key>signingCertificate</key>
+      <string>iOS Distribution</string>
+      <key>signingStyle</key>
+      <string>manual</string>
+      <key>teamID</key>
+      <string>MY_TEAM_ID</string>
+  </dict>
+</plist>
